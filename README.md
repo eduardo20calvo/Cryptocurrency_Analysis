@@ -52,7 +52,7 @@ As you can see, it predicted the price of Bitcoin will continue to go down at th
 
 ![bokeh_plot (15)](https://user-images.githubusercontent.com/104874384/208578918-7d73cf95-89b9-409b-a517-a23d44e799b1.png)
 
-As you see, with Prophet, were were able to find that the worst case price for Bitcoin in 40 days at the time of this analysis would be about $16,010. The best case price would be about $24,260. But the most likely price would be about $20,140.
+As you see, with Prophet, we were able to find that the worst case price for Bitcoin in 40 days at the time of this analysis would be about $16,010. The best case price would be about $24,260. But the most likely price would be about $20,140.
 
 The results for Ethereum are as follows:
 
